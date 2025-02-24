@@ -5,7 +5,7 @@ from openai import OpenAI
 # Initialize the OpenAI client for Mistral
 client = OpenAI(
     base_url="https://integrate.api.nvidia.com/v1",
-    api_key="nvapi-vAjsaPigf9i0Uwdu_eqBzYacToVfdZCpKh1AhMTSnxIlxXosMVd3saEWj", #Add your own API Key from build.nvidia.com
+    api_key="ADD YOUR API KEY HERE", #Add your own API Key from build.nvidia.com
 )
 
 
